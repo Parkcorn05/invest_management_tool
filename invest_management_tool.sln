@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "invest_management_tool", "invest_management_tool\invest_management_tool.vcxproj", "{856619DA-0015-4183-B1D5-62C6330EF3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856619DA-0015-4183-B1D5-62C6330EF3CD}.Debug|x64.ActiveCfg = Debug|x64
+		{856619DA-0015-4183-B1D5-62C6330EF3CD}.Debug|x64.Build.0 = Debug|x64
+		{856619DA-0015-4183-B1D5-62C6330EF3CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{856619DA-0015-4183-B1D5-62C6330EF3CD}.Debug|x86.Build.0 = Debug|Win32
+		{856619DA-0015-4183-B1D5-62C6330EF3CD}.Release|x64.ActiveCfg = Release|x64
+		{856619DA-0015-4183-B1D5-62C6330EF3CD}.Release|x64.Build.0 = Release|x64
+		{856619DA-0015-4183-B1D5-62C6330EF3CD}.Release|x86.ActiveCfg = Release|Win32
+		{856619DA-0015-4183-B1D5-62C6330EF3CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C64B899-8B29-4373-9788-D09736B1BCB5}
+	EndGlobalSection
+EndGlobal
