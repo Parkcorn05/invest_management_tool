@@ -3,6 +3,7 @@
 #include <Windows.h>
 
 void gotoxy(int x, int y);
+void textcolor(int colorNum);
 
 /* 메인 함수 */
 
@@ -20,4 +21,8 @@ void gotoxy(int x, int y) {
     Pos.X = x;
     Pos.Y = y;
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),Pos);
+}
+
+void textcolor(int colorNum) {
+    SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), colorNum);
 }
