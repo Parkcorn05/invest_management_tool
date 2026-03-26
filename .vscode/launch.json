@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/bs412/invest_management_tool",
-      "program": "c:/Users/bs412/invest_management_tool/build/Debug/outDebug",
+      "program": "c:/Users/bs412/invest_management_tool/test.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
